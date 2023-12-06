@@ -1,0 +1,6094 @@
+[
+  [
+    "Game 1",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 18,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 2",
+    [
+      [
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 3",
+    [
+      [
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 14,
+          "color": "blue"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 16,
+          "color": "red"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 4",
+    [
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 5",
+    [
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 6",
+    [
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 7",
+    [
+      [
+        {
+          "count": 14,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 8",
+    [
+      [
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 9",
+    [
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 10",
+    [
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 11",
+    [
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 12",
+    [
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 13",
+    [
+      [
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 16,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 14,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 14",
+    [
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 15",
+    [
+      [
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 16",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 16,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 17",
+    [
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 18",
+    [
+      [
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 19",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 16,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 18,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 14,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 20",
+    [
+      [
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 15,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 21",
+    [
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 14,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 16,
+          "color": "green"
+        },
+        {
+          "count": 10,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 22",
+    [
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 16,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 23",
+    [
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 20,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 24",
+    [
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        },
+        {
+          "count": 12,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 25",
+    [
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "blue"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 26",
+    [
+      [
+        {
+          "count": 14,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 15,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 27",
+    [
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 28",
+    [
+      [
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 19,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 16,
+          "color": "red"
+        },
+        {
+          "count": 18,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 16,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 15,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 29",
+    [
+      [
+        {
+          "count": 12,
+          "color": "red"
+        },
+        {
+          "count": 15,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 17,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 30",
+    [
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 31",
+    [
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 32",
+    [
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 33",
+    [
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 34",
+    [
+      [
+        {
+          "count": 12,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 35",
+    [
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 36",
+    [
+      [
+        {
+          "count": 12,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 18,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 12,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 37",
+    [
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 38",
+    [
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 39",
+    [
+      [
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 40",
+    [
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 41",
+    [
+      [
+        {
+          "count": 17,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 17,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 42",
+    [
+      [
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 9,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 43",
+    [
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 14,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 16,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 44",
+    [
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 45",
+    [
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 17,
+          "color": "red"
+        },
+        {
+          "count": 14,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 14,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 46",
+    [
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 47",
+    [
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 15,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 16,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 48",
+    [
+      [
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 49",
+    [
+      [
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 18,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 17,
+          "color": "green"
+        },
+        {
+          "count": 18,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 50",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 51",
+    [
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 12,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 14,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 52",
+    [
+      [
+        {
+          "count": 4,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 53",
+    [
+      [
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 16,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 54",
+    [
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 55",
+    [
+      [
+        {
+          "count": 17,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 18,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 14,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 18,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 56",
+    [
+      [
+        {
+          "count": 14,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 18,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 12,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 57",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 58",
+    [
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 17,
+          "color": "green"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 59",
+    [
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 16,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 14,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 60",
+    [
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 17,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 14,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 14,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 61",
+    [
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 16,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 14,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "red"
+        },
+        {
+          "count": 15,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 62",
+    [
+      [
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 15,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 63",
+    [
+      [
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 64",
+    [
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 65",
+    [
+      [
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 66",
+    [
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "green"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 17,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 16,
+          "color": "green"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 67",
+    [
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 12,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 68",
+    [
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 16,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 11,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 16,
+          "color": "green"
+        },
+        {
+          "count": 15,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 16,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 15,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 69",
+    [
+      [
+        {
+          "count": 14,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 14,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 18,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 70",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 12,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 71",
+    [
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 72",
+    [
+      [
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 73",
+    [
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 74",
+    [
+      [
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 17,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 19,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 75",
+    [
+      [
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 16,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 18,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 76",
+    [
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 14,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 77",
+    [
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 78",
+    [
+      [
+        {
+          "count": 9,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 15,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 79",
+    [
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 80",
+    [
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 18,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 11,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 13,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 81",
+    [
+      [
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 18,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 82",
+    [
+      [
+        {
+          "count": 9,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 14,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 83",
+    [
+      [
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 12,
+          "color": "red"
+        },
+        {
+          "count": 12,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 13,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 84",
+    [
+      [
+        {
+          "count": 10,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 85",
+    [
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 86",
+    [
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 87",
+    [
+      [
+        {
+          "count": 11,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 10,
+          "color": "blue"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 16,
+          "color": "green"
+        },
+        {
+          "count": 16,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 12,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 88",
+    [
+      [
+        {
+          "count": 15,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 13,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 17,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 14,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 89",
+    [
+      [
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 12,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 90",
+    [
+      [
+        {
+          "count": 19,
+          "color": "blue"
+        },
+        {
+          "count": 19,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 17,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 8,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 18,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 91",
+    [
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 14,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 92",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 16,
+          "color": "red"
+        },
+        {
+          "count": 15,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 11,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "blue"
+        },
+        {
+          "count": 13,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 93",
+    [
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 9,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 7,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 94",
+    [
+      [
+        {
+          "count": 12,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "blue"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 95",
+    [
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 15,
+          "color": "red"
+        },
+        {
+          "count": 10,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 16,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 13,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 96",
+    [
+      [
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 10,
+          "color": "red"
+        },
+        {
+          "count": 15,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 19,
+          "color": "red"
+        },
+        {
+          "count": 8,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 97",
+    [
+      [
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "red"
+        },
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 12,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 98",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 9,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 7,
+          "color": "green"
+        },
+        {
+          "count": 11,
+          "color": "blue"
+        },
+        {
+          "count": 7,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 99",
+    [
+      [
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 15,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "green"
+        },
+        {
+          "count": 12,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "green"
+        },
+        {
+          "count": 18,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 9,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 18,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 100",
+    [
+      [
+        {
+          "count": 13,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 15,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 4,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 11,
+          "color": "red"
+        },
+        {
+          "count": 5,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 8,
+          "color": "red"
+        }
+      ]
+    ]
+  ]
+]

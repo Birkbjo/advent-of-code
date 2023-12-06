@@ -1,0 +1,195 @@
+[
+  [
+    "Game 1",
+    [
+      [
+        {
+          "count": 3,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 2",
+    [
+      [
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 4,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 3",
+    [
+      [
+        {
+          "count": 8,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        },
+        {
+          "count": 20,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "blue"
+        },
+        {
+          "count": 4,
+          "color": "red"
+        },
+        {
+          "count": 13,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 5,
+          "color": "green"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 4",
+    [
+      [
+        {
+          "count": 1,
+          "color": "green"
+        },
+        {
+          "count": 3,
+          "color": "red"
+        },
+        {
+          "count": 6,
+          "color": "blue"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 6,
+          "color": "red"
+        }
+      ],
+      [
+        {
+          "count": 3,
+          "color": "green"
+        },
+        {
+          "count": 15,
+          "color": "blue"
+        },
+        {
+          "count": 14,
+          "color": "red"
+        }
+      ]
+    ]
+  ],
+  [
+    "Game 5",
+    [
+      [
+        {
+          "count": 6,
+          "color": "red"
+        },
+        {
+          "count": 1,
+          "color": "blue"
+        },
+        {
+          "count": 3,
+          "color": "green"
+        }
+      ],
+      [
+        {
+          "count": 2,
+          "color": "blue"
+        },
+        {
+          "count": 1,
+          "color": "red"
+        },
+        {
+          "count": 2,
+          "color": "green"
+        }
+      ]
+    ]
+  ]
+]
