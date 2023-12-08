@@ -1,0 +1,1697 @@
+[
+  {
+    "cards": "AAAJJ",
+    "bid": 440,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "AJAAA",
+    "bid": 568,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "KKKKJ",
+    "bid": 86,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "KKJJK",
+    "bid": 111,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "QQJQQ",
+    "bid": 154,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "QQJQJ",
+    "bid": 582,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "QJQJJ",
+    "bid": 471,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "TTTTJ",
+    "bid": 437,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "TJJTT",
+    "bid": 418,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "9J999",
+    "bid": 38,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "88J8J",
+    "bid": 885,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "7J77J",
+    "bid": 561,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "666J6",
+    "bid": 939,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "6J6JJ",
+    "bid": 147,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "55J55",
+    "bid": 750,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "44J44",
+    "bid": 688,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "3333J",
+    "bid": 581,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "222JJ",
+    "bid": 793,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "2J222",
+    "bid": 57,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "JAJAJ",
+    "bid": 338,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J999J",
+    "bid": 215,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J99JJ",
+    "bid": 954,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J8888",
+    "bid": 96,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J8J8J",
+    "bid": 835,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J7777",
+    "bid": 902,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J66J6",
+    "bid": 554,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J555J",
+    "bid": 478,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J4J44",
+    "bid": 194,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J333J",
+    "bid": 221,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "J2JJ2",
+    "bid": 353,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "JJ8JJ",
+    "bid": 539,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "JJ55J",
+    "bid": 161,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "JJJJJ",
+    "bid": 348,
+    "handType": "FiveKind"
+  },
+  {
+    "cards": "AAJAT",
+    "bid": 617,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "A7JJA",
+    "bid": 562,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "KKK7J",
+    "bid": 124,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "KQKKJ",
+    "bid": 62,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "QQ7QJ",
+    "bid": 705,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "QQ4JQ",
+    "bid": 635,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "QJQQ9",
+    "bid": 427,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "QJQ8Q",
+    "bid": 402,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "QJQ8J",
+    "bid": 533,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "QJTJQ",
+    "bid": 599,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "QJJTT",
+    "bid": 925,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "TQJQQ",
+    "bid": 525,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "TQJTT",
+    "bid": 734,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "TTT7J",
+    "bid": 310,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "TTT6J",
+    "bid": 439,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "TTJ2T",
+    "bid": 780,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "T3J3J",
+    "bid": 661,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "TJTJ7",
+    "bid": 300,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "TJ444",
+    "bid": 968,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "TJJ9J",
+    "bid": 906,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "9Q9J9",
+    "bid": 214,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "999JT",
+    "bid": 667,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "9969J",
+    "bid": 714,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "99J59",
+    "bid": 813,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "99JJT",
+    "bid": 344,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "929J9",
+    "bid": 165,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "92JJJ",
+    "bid": 735,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "882J8",
+    "bid": 748,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "88JK8",
+    "bid": 608,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "8688J",
+    "bid": 862,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "848J8",
+    "bid": 281,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "84J4J",
+    "bid": 500,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "8JTTT",
+    "bid": 877,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "8J88A",
+    "bid": 406,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "7A77J",
+    "bid": 486,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "7797J",
+    "bid": 426,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "7787J",
+    "bid": 388,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "7J78J",
+    "bid": 410,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "66J76",
+    "bid": 682,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "644JJ",
+    "bid": 612,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "5T5J5",
+    "bid": 638,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "55K5J",
+    "bid": 850,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "558J5",
+    "bid": 870,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "557J5",
+    "bid": 280,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "553J5",
+    "bid": 45,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "55J59",
+    "bid": 912,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "446J4",
+    "bid": 477,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "443J4",
+    "bid": 479,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "43J33",
+    "bid": 623,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "4J449",
+    "bid": 770,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "38J88",
+    "bid": 633,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "36J6J",
+    "bid": 90,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "339J3",
+    "bid": 99,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "3J633",
+    "bid": 621,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "3J335",
+    "bid": 241,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "3JJ77",
+    "bid": 16,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "2AAJA",
+    "bid": 755,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "2AJ22",
+    "bid": 558,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "2KKKJ",
+    "bid": 10,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "2QQQJ",
+    "bid": 413,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "282JJ",
+    "bid": 28,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "224J2",
+    "bid": 668,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "222TJ",
+    "bid": 959,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "22J27",
+    "bid": 499,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "2JJ2Q",
+    "bid": 804,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JAA3A",
+    "bid": 367,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JAQJQ",
+    "bid": 105,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JAJTA",
+    "bid": 745,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JKKK3",
+    "bid": 802,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JTTKT",
+    "bid": 400,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JTT9T",
+    "bid": 609,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JT888",
+    "bid": 366,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JT4TT",
+    "bid": 246,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J999K",
+    "bid": 462,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J9888",
+    "bid": 552,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J9666",
+    "bid": 415,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J8885",
+    "bid": 681,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J8JQ8",
+    "bid": 819,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J777T",
+    "bid": 450,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J7J79",
+    "bid": 20,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J6686",
+    "bid": 576,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J6J46",
+    "bid": 174,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J4555",
+    "bid": 809,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J44K4",
+    "bid": 543,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J443J",
+    "bid": 303,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J3AAJ",
+    "bid": 263,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J3A33",
+    "bid": 470,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J322J",
+    "bid": 921,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "J2622",
+    "bid": 441,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JJQJK",
+    "bid": 777,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "JJ488",
+    "bid": 839,
+    "handType": "FourKind"
+  },
+  {
+    "cards": "AA5J5",
+    "bid": 58,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "AJATT",
+    "bid": 187,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "KK4J4",
+    "bid": 726,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "TQQTJ",
+    "bid": 660,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "TJ2T2",
+    "bid": 883,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "96J96",
+    "bid": 614,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "8686J",
+    "bid": 253,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "8J558",
+    "bid": 125,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "77JQQ",
+    "bid": 54,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "75J57",
+    "bid": 159,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "7JKK7",
+    "bid": 29,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "7J474",
+    "bid": 325,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "6QJ6Q",
+    "bid": 12,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "6644J",
+    "bid": 472,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "5TTJ5",
+    "bid": 995,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "53J53",
+    "bid": 298,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "433J4",
+    "bid": 945,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "3J3TT",
+    "bid": 435,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "2J828",
+    "bid": 723,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "2J2KK",
+    "bid": 164,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "JK66K",
+    "bid": 473,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "JQQ44",
+    "bid": 340,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "JT4T4",
+    "bid": 498,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "J5QQ5",
+    "bid": 929,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "J4224",
+    "bid": 314,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "J3A3A",
+    "bid": 424,
+    "handType": "FullHouse"
+  },
+  {
+    "cards": "AQQ8J",
+    "bid": 475,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "AQ9JJ",
+    "bid": 73,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "A3A5J",
+    "bid": 242,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "AJ636",
+    "bid": 997,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "KK3J8",
+    "bid": 840,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "K7J3J",
+    "bid": 811,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "K6K2J",
+    "bid": 597,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "K57JK",
+    "bid": 549,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "K34KJ",
+    "bid": 703,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "KJKT7",
+    "bid": 769,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "KJQTT",
+    "bid": 249,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "QT3JQ",
+    "bid": 420,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "QTJ44",
+    "bid": 848,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "Q96J9",
+    "bid": 708,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "Q2KQJ",
+    "bid": 30,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "QJQ75",
+    "bid": 898,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "QJJK6",
+    "bid": 41,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "T2T9J",
+    "bid": 454,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "TJA4T",
+    "bid": 693,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "TJQT5",
+    "bid": 838,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "TJT36",
+    "bid": 996,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "TJ38T",
+    "bid": 936,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "TJ337",
+    "bid": 983,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "TJ2TK",
+    "bid": 833,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "TJ244",
+    "bid": 266,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "955J6",
+    "bid": 307,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "92T9J",
+    "bid": 884,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "922JA",
+    "bid": 593,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "9JKK3",
+    "bid": 115,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "9J49A",
+    "bid": 523,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "8Q4JQ",
+    "bid": 509,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "88A4J",
+    "bid": 63,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "87J89",
+    "bid": 594,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "847J7",
+    "bid": 61,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "8466J",
+    "bid": 79,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "823J3",
+    "bid": 627,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "8J99T",
+    "bid": 743,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "7AJA6",
+    "bid": 615,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "7KTJT",
+    "bid": 156,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "78QJ7",
+    "bid": 257,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "776J2",
+    "bid": 267,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "752J5",
+    "bid": 530,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "73JJT",
+    "bid": 157,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "722JT",
+    "bid": 416,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "7J74T",
+    "bid": 994,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "7J724",
+    "bid": 992,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "7JJKA",
+    "bid": 904,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "6AJ5J",
+    "bid": 841,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "69QJQ",
+    "bid": 408,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "66J45",
+    "bid": 381,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "647J4",
+    "bid": 625,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "62J25",
+    "bid": 825,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "6JQ3Q",
+    "bid": 43,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "6J8J2",
+    "bid": 67,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "6J3K3",
+    "bid": 216,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "54J5K",
+    "bid": 21,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "5J3TJ",
+    "bid": 861,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "49J77",
+    "bid": 122,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "449JA",
+    "bid": 238,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "4353J",
+    "bid": 386,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "43J42",
+    "bid": 673,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "4J8J6",
+    "bid": 519,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "4J33Q",
+    "bid": 542,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "3KAJK",
+    "bid": 445,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "3Q9J9",
+    "bid": 332,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "357J3",
+    "bid": 725,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "34J55",
+    "bid": 133,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "3JTKJ",
+    "bid": 181,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "3JJ9K",
+    "bid": 508,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "2QJ3Q",
+    "bid": 900,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "2642J",
+    "bid": 944,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "25KKJ",
+    "bid": 670,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "25J2T",
+    "bid": 180,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "2253J",
+    "bid": 598,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "22JAT",
+    "bid": 71,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "2J77A",
+    "bid": 611,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "2J664",
+    "bid": 713,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "JKA22",
+    "bid": 829,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "JKK37",
+    "bid": 765,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "JK949",
+    "bid": 744,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "JKJ94",
+    "bid": 377,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "JQ4Q6",
+    "bid": 677,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "JTK33",
+    "bid": 101,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "JTT47",
+    "bid": 113,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J97K7",
+    "bid": 823,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J88K6",
+    "bid": 371,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J8658",
+    "bid": 805,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J8248",
+    "bid": 297,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J799A",
+    "bid": 237,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J78QJ",
+    "bid": 785,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J74AJ",
+    "bid": 736,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J6AA3",
+    "bid": 53,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J6A96",
+    "bid": 47,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J6QJ5",
+    "bid": 118,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J677K",
+    "bid": 764,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J64K6",
+    "bid": 466,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J639J",
+    "bid": 564,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J5574",
+    "bid": 438,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J5J3A",
+    "bid": 259,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J4A54",
+    "bid": 988,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J44K2",
+    "bid": 980,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J38JA",
+    "bid": 585,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J339T",
+    "bid": 315,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J2A28",
+    "bid": 200,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J2K77",
+    "bid": 341,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J2Q23",
+    "bid": 987,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "J24T2",
+    "bid": 784,
+    "handType": "Three of a kind"
+  },
+  {
+    "cards": "AKJ58",
+    "bid": 39,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "A75JT",
+    "bid": 204,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "AJ283",
+    "bid": 484,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "KQJA9",
+    "bid": 81,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "K9J62",
+    "bid": 282,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "K846J",
+    "bid": 432,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "K62QJ",
+    "bid": 138,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "K6J5Q",
+    "bid": 162,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "K43J7",
+    "bid": 226,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "KJ957",
+    "bid": 574,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "KJ273",
+    "bid": 76,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "QA82J",
+    "bid": 975,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "Q92KJ",
+    "bid": 778,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "Q7T6J",
+    "bid": 463,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "Q34J7",
+    "bid": 654,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "QJ523",
+    "bid": 541,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "TQJ53",
+    "bid": 182,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "T92JA",
+    "bid": 620,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "T9J4Q",
+    "bid": 346,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "T7KJQ",
+    "bid": 126,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "T4J56",
+    "bid": 198,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "T273J",
+    "bid": 265,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "TJ937",
+    "bid": 692,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "9Q64J",
+    "bid": 659,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "97KJ3",
+    "bid": 636,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "97J54",
+    "bid": 1,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "93A4J",
+    "bid": 48,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "93K6J",
+    "bid": 191,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "92Q4J",
+    "bid": 217,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "8K92J",
+    "bid": 483,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "874TJ",
+    "bid": 376,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "8746J",
+    "bid": 752,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "85J6K",
+    "bid": 404,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "832J6",
+    "bid": 821,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "82KJ6",
+    "bid": 335,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "82TJQ",
+    "bid": 4,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "75TJ9",
+    "bid": 186,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "73JAT",
+    "bid": 592,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "7J256",
+    "bid": 401,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "6A83J",
+    "bid": 570,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "6QJ87",
+    "bid": 704,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "67KAJ",
+    "bid": 687,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "65J48",
+    "bid": 119,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "64A2J",
+    "bid": 824,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "63J79",
+    "bid": 383,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "6J923",
+    "bid": 544,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "6J39Q",
+    "bid": 75,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "5Q4J7",
+    "bid": 455,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "583QJ",
+    "bid": 465,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "5JQ49",
+    "bid": 102,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "4A3J2",
+    "bid": 941,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "4TJK2",
+    "bid": 806,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "48J96",
+    "bid": 374,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "4JK85",
+    "bid": 718,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "3AJT5",
+    "bid": 36,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "3TQJ4",
+    "bid": 19,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "36T4J",
+    "bid": 914,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "29JQ7",
+    "bid": 355,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "27JKQ",
+    "bid": 412,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "2JK35",
+    "bid": 269,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "2J56T",
+    "bid": 493,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JA98K",
+    "bid": 647,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JA8Q4",
+    "bid": 70,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JA65K",
+    "bid": 604,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JK582",
+    "bid": 801,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JK294",
+    "bid": 536,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JK267",
+    "bid": 603,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JQKT2",
+    "bid": 37,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JQT52",
+    "bid": 261,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JQ4K9",
+    "bid": 255,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "JQ4K7",
+    "bid": 918,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J9TK8",
+    "bid": 920,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J8279",
+    "bid": 244,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J796K",
+    "bid": 368,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J794A",
+    "bid": 669,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J7638",
+    "bid": 49,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J64QA",
+    "bid": 815,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J5Q8A",
+    "bid": 232,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J4K8A",
+    "bid": 208,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J48K2",
+    "bid": 663,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J359A",
+    "bid": 296,
+    "handType": "OnePair"
+  },
+  {
+    "cards": "J28Q3",
+    "bid": 121,
+    "handType": "OnePair"
+  }
+]
